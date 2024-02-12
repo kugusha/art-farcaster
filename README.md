@@ -19,6 +19,7 @@
 - [/based-art](https://warpcast.com/~/channel/based-art)
 
 
+
 ## Artists' personal channels
 - [/bold](https://warpcast.com/~/channel/bold) by [@boldleonidas](https://warpcast.com/boldleonidas)
 - [/muse](https://warpcast.com/~/channel/muse) by [@mxjxn.eth](https://warpcast.com/mxjxn.eth)
@@ -72,14 +73,7 @@
 - [/grifters](https://warpcast.com/~/channel/grifters)
 - [/rcs](https://warpcast.com/~/channel/rcs)
 - [/zaibs](https://warpcast.com/~/channel/zaibs)
-- []()
-- []()
-- []()
-- []()
 
-## Art-related initiatives' channels
-- [we-love-the-art](https://warpcast.com/~/channel/we-love-the-art)
-- 
 
 ## Art-related channels (general) 
 - [/photography](https://warpcast.com/~/channel/photography)
@@ -98,10 +92,11 @@
 - Basepaint - Paint Together. Mint Daily.
   - website:[https://basepaint.xyz/](https://basepaint.xyz/)
   - channel: [/basepaint](https://warpcast.com/~/channel/basepaint) 
-- [We love art](https://welovetheart.optimism.io/) by Optimism - an onchain art contest with 1,200,000 OP in prizes. ()
+- [We love art](https://welovetheart.optimism.io/) by Optimism - an onchain art contest with 1,200,000 OP in prizes. 
 
 
-### Contributions
+
+## Contributions
 This is a community-curated list of art-related projects on Farcaster. If you'd like to add something to these lists, please open a pull request. Please try to match or improve upon the format of the existing entries.
 
 Submission rules:
