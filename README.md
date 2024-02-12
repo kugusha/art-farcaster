@@ -32,10 +32,16 @@
 - [/ripe](https://warpcast.com/~/channel/ripe) by [@ripe](https://warpcast.com/ripe)
 - [/crystalspaceshp](https://warpcast.com/~/channel/crystalspaceshp) by [@crystalspaceshp](https://warpcast.com/crystalspaceshp)
 - [/mbranson](https://warpcast.com/~/channel/mbranson) by [@mbranson](https://warpcast.com/mbranson)
-- []() by []()
-- []() by []()
-- []() by []()
-- []() by []()
+- [/world](https://warpcast.com/~/channel/world) by [@elysianecstacy.eth](https://warpcast.com/elysianecstacy.eth)
+- [/user-stee](https://warpcast.com/~/channel/user-steen) by [@usersteen.eth](https://warpcast.com/usersteen.eth)
+- [/loading-v2](https://warpcast.com/~/channel/loading-v2) by [@usersteen.eth](https://warpcast.com/usersteen.eth)
+- [/batz](https://warpcast.com/~/channel/batz) by [@batz.eth](https://warpcast.com/batz.eth)
+- [/studio2](https://warpcast.com/~/channel/studio2) by [@ccarella](https://warpcast.com/ccarella.eth)
+- [/punk](https://warpcast.com/~/channel/punk) by [@bias](https://warpcast.com/bias)
+- [/yungwknd](https://warpcast.com/~/channel/yungwknd) by [@yungwknd](https://warpcast.com/yungwknd)
+- [/priyanka](https://warpcast.com/~/channel/priyanka) by [@priyanka](https://warpcast.com/priyanka)
+- [/brinkman](https://warpcast.com/~/channel/brinkman) by [@bryanbrinkman](https://warpcast.com/bryanbrinkman)
+- [/dyl](https://warpcast.com/~/channel/dyl) by [@dyl](https://warpcast.com/dyl)
 
 
 ## Project-specific channels
@@ -60,9 +66,9 @@
 - [/ordinals](https://warpcast.com/~/channel/ordinals)
 - [/cc0](https://warpcast.com/~/channel/cc0)
 - [/opepen](https://warpcast.com/~/channel/opepen)
-- []()
-- []()
-- []()
+- [/grifters](https://warpcast.com/~/channel/grifters)
+- [/rcs](https://warpcast.com/~/channel/rcs)
+- [/zaibs](https://warpcast.com/~/channel/zaibs)
 - []()
 - []()
 - []()
@@ -82,7 +88,9 @@
 ### Contributions
 This is a community-curated list of art-related projects on Farcaster. If you'd like to add something to these lists, please open a pull request. Please try to match or improve upon the format of the existing entries.
 
-*Submission rule for general channels: a channel should have at least 100 followers.*   
+Submission rules:
+- for general channels: > 100 followers
+- for personal channels: > 50 followers
 
 
 ### Contact 
