@@ -7,6 +7,7 @@
 - [/ai-art](https://warpcast.com/~/channel/ai-art)
 - [/plotter-art](https://warpcast.com/~/channel/plotter-art)
 - [/glitch-art](https://warpcast.com/~/channel/glitch-art)
+- [/glitch](https://warpcast.com/~/channel/glitch)
 - [/pixelart](https://warpcast.com/~/channel/pixelart)
 - [/gifart](https://warpcast.com/~/channel/gifart)
 - [/vv](https://warpcast.com/~/channel/vv)
@@ -42,6 +43,7 @@
 - [/priyanka](https://warpcast.com/~/channel/priyanka) by [@priyanka](https://warpcast.com/priyanka)
 - [/brinkman](https://warpcast.com/~/channel/brinkman) by [@bryanbrinkman](https://warpcast.com/bryanbrinkman)
 - [/dyl](https://warpcast.com/~/channel/dyl) by [@dyl](https://warpcast.com/dyl)
+- [/rudxane](https://warpcast.com/~/channel/rudxane) by [@rudxane](https://warpcast.com/rudxane)
 
 
 ## Project-specific channels
@@ -56,6 +58,7 @@
 - [/foundation](https://warpcast.com/~/channel/foundation)
 - [/le-random](https://warpcast.com/~/channel/le-random)
 - [/superrare](https://warpcast.com/~/channel/superrare)
+- [/lisa](https://warpcast.com/~/channel/lisa)
 
 
 ## Collection-specific channels
@@ -73,16 +76,29 @@
 - []()
 - []()
 - []()
-- []()
 
+## Art-related initiatives' channels
+- [we-love-the-art](https://warpcast.com/~/channel/we-love-the-art)
+- 
 
 ## Art-related channels (general) 
 - [/photography](https://warpcast.com/~/channel/photography)
 - [/streetphotos](https://warpcast.com/~/channel/streetphotos)
 - [/music](https://warpcast.com/~/channel/music)
 - [/poetry](https://warpcast.com/~/channel/poetry)
+- [/design](https://warpcast.com/~/channel/design)
 
-
+# Art-related Initiatives 
+- The Yellow Collective - a new onchain club on the BASE L2, designed to support and empower artists and creatives in the Nouns and Superchain ecosystems.
+  - channel: [/yellow](https://warpcast.com/~/channel/yellow)
+  - auction: [https://yellowcollective.xyz](https://yellowcollective.xyz)   
+- ENERGY - a creative grants collective, funding creative arts and engineering projects on Zora Network.
+  - channel: [/energy](https://warpcast.com/~/channel/energy)
+  - auction: [auction page](https://nouns.build/dao/zora/0x32297b7416294b1acf404b6148a3c58107ba8afd/76)
+- Basepaint - Paint Together. Mint Daily.
+  - website:[https://basepaint.xyz/](https://basepaint.xyz/)
+  - channel: [/basepaint](https://warpcast.com/~/channel/basepaint) 
+- [We love art](https://welovetheart.optimism.io/) by Optimism - an onchain art contest with 1,200,000 OP in prizes. ()
 
 
 ### Contributions
