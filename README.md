@@ -98,6 +98,10 @@
 - [Gallery.so](https://gallery.so/home) - Create your own gallery and showcase your collection as it's meant to be seen. Native integration with frames.
 - [Hypersub](https://hypersub.withfabric.xyz/) by fabric.xyz - Create recurring revenue with NFT subscriptions: Upload your art, add subscriber perks, set a monthly price, and launch your collection.
 
+# Visual-focused Farcaster Clients 
+- [tiles](https://www.v0.tiles.cool/channels/art) - an image-first Farcaster client.
+- [photocaster.xyz](https://www.photocaster.xyz/) - an image focused Farcaster client that allows you to post high resolution photos.
+
 ## Contributions
 This is a community-curated list of art-related projects on Farcaster. If you'd like to add something to these lists, please open a pull request. Please try to match or improve upon the format of the existing entries.
 
