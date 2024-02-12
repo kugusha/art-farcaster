@@ -1,5 +1,5 @@
-
-## Art-focused channels (general)
+# Art-related Channels 
+### Art-focused Channels (General)
 - [/art](https://warpcast.com/~/channel/art)
 - [/gen-art](https://warpcast.com/~/channel/gen-art)
 - [/onchainart](https://warpcast.com/~/channel/onchainart)
@@ -20,7 +20,7 @@
 
 
 
-## Artists' personal channels
+### Artists' Personal Channels
 - [/bold](https://warpcast.com/~/channel/bold) by [@boldleonidas](https://warpcast.com/boldleonidas)
 - [/muse](https://warpcast.com/~/channel/muse) by [@mxjxn.eth](https://warpcast.com/mxjxn.eth)
 - [/xcopy](https://warpcast.com/~/channel/xcopy) by [@xcopy.eth](https://warpcast.com/xcopy.eth)
@@ -47,7 +47,7 @@
 - [/rudxane](https://warpcast.com/~/channel/rudxane) by [@rudxane](https://warpcast.com/rudxane)
 
 
-## Project-specific channels
+### Project-specific Channels
 - [/zora](https://warpcast.com/~/channel/zora)
 - [/bright-moments](https://warpcast.com/~/channel/bright-moments)
 - [/fxhash](https://warpcast.com/~/channel/fxhash)
@@ -62,7 +62,7 @@
 - [/lisa](https://warpcast.com/~/channel/lisa)
 
 
-## Collection-specific channels
+### Collection-specific Channels
 - [/arcs](https://warpcast.com/~/channel/arcs)
 - [/checks](https://warpcast.com/~/channel/checks)
 - [/terraforms](https://warpcast.com/~/channel/terraforms)
@@ -75,7 +75,7 @@
 - [/zaibs](https://warpcast.com/~/channel/zaibs)
 
 
-## Art-related channels (general) 
+### Art-related Channels (General) 
 - [/photography](https://warpcast.com/~/channel/photography)
 - [/streetphotos](https://warpcast.com/~/channel/streetphotos)
 - [/music](https://warpcast.com/~/channel/music)
@@ -94,7 +94,7 @@
   - channel: [/basepaint](https://warpcast.com/~/channel/basepaint) 
 - [We love art](https://welovetheart.optimism.io/) by Optimism - an onchain art contest with 1,200,000 OP in prizes. 
 
-# Tools for artists 
+# Tools for Artists 
 - [Gallery.so](https://gallery.so/home) - Create your own gallery and showcase your collection as it's meant to be seen. Native integration with frames.
 - [Hypersub](https://hypersub.withfabric.xyz/) by fabric.xyz - Create recurring revenue with NFT subscriptions: Upload your art, add subscriber perks, set a monthly price, and launch your collection.
 
@@ -106,5 +106,5 @@ Submission rules:
 - for personal channels: > 50 followers
 
 
-### Contact 
+### 💌 Contact 
 If you have any questions or suggestions how to improve this list, please send me a DC on Farcaster [@kugusha.eth](https://warpcast.com/kugusha.eth). 
