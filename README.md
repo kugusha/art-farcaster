@@ -9,7 +9,7 @@
 - [/glitch-art](https://warpcast.com/~/channel/glitch-art)
 - [/pixelart](https://warpcast.com/~/channel/pixelart)
 - [/gifart](https://warpcast.com/~/channel/gifart)
-- [vv](https://warpcast.com/~/channel/vv)
+- [/vv](https://warpcast.com/~/channel/vv)
 - [/conceptual-art](https://warpcast.com/~/channel/conceptualart)
 - [/dynamic-art](https://warpcast.com/~/channel/dynamic-art)
 - [/nft](https://warpcast.com/~/channel/nft)
