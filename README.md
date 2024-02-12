@@ -94,7 +94,9 @@
   - channel: [/basepaint](https://warpcast.com/~/channel/basepaint) 
 - [We love art](https://welovetheart.optimism.io/) by Optimism - an onchain art contest with 1,200,000 OP in prizes. 
 
-
+# Tools for artists 
+- [Gallery.so](https://gallery.so/home) - Create your own gallery and showcase your collection as it's meant to be seen. Native integration with frames.
+- [Hypersub](https://hypersub.withfabric.xyz/) by fabric.xyz - Create recurring revenue with NFT subscriptions: Upload your art, add subscriber perks, set a monthly price, and launch your collection.
 
 ## Contributions
 This is a community-curated list of art-related projects on Farcaster. If you'd like to add something to these lists, please open a pull request. Please try to match or improve upon the format of the existing entries.
