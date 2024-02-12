@@ -11,11 +11,12 @@
 - [/pixelart](https://warpcast.com/~/channel/pixelart)
 - [/gifart](https://warpcast.com/~/channel/gifart)
 - [vv](https://warpcast.com/~/channel/vv)
-- [/conceptualart](https://warpcast.com/~/channel/conceptualart)
+- [/conceptual-art](https://warpcast.com/~/channel/conceptualart)
 - [/dynamic-art](https://warpcast.com/~/channel/dynamic-art)
 - [/nft](https://warpcast.com/~/channel/nft)
-- [/abstract]()
+- [/abstract](https://warpcast.com/~/channel/abstract)
 - [/cult](https://warpcast.com/~/channel/cult)
+- [/based-art](https://warpcast.com/~/channel/based-art)
 
 
 ## Artists' personal channels
@@ -25,11 +26,14 @@
 - [/zora](https://warpcast.com/~/channel/zora)
 - [/bright-moments](https://warpcast.com/~/channel/bright-moments)
 - [/fxhash](https://warpcast.com/~/channel/fxhash)
+- [/gallery](https://warpcast.com/~/channel/gallery)
 - [/artblocks](https://warpcast.com/~/channel/artblocks)
+- [/highlight](https://warpcast.com/~/channel/highlight)
 - [/deca]((https://warpcast.com/~/channel/deca))
 - [/objkt](https://warpcast.com/~/channel/objkt)
-- []()
-- []()
+- [/foundation](https://warpcast.com/~/channel/foundation)
+- [/le-random](https://warpcast.com/~/channel/le-random)
+- [/superrare](https://warpcast.com/~/channel/superrare)
 - []()
 - []()
 - []()
@@ -38,8 +42,8 @@
 ## Collcetion-specific channels
 - [/terraforms](https://warpcast.com/~/channel/terraforms)
 - [/mathcastles](https://warpcast.com/~/channel/mathcastles)
-- []()
-- []()
+- [/ordinals](https://warpcast.com/~/channel/ordinals)
+- [/cc0](https://warpcast.com/~/channel/cc0)
 - []()
 - []()
 - []()
@@ -51,13 +55,15 @@
 - [/photography](https://warpcast.com/~/channel/photography)
 - [/streetphotos](https://warpcast.com/~/channel/streetphotos)
 - [/music](https://warpcast.com/~/channel/music)
+- [/poetry](https://warpcast.com/~/channel/poetry)
 
 
 
 
 ### Contributions
 This is a community-curated list of art-related projects on Farcaster. If you'd like to add something to these lists, please open a pull request. Please try to match or improve upon the format of the existing entries.
-Submission rule for channels: a channel should have at least 100 followers.   
+
+*Submission rule for channels: a channel should have at least 100 followers.*   
 
 
 ### Contact 
