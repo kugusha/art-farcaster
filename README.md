@@ -18,6 +18,7 @@
 - [/cult](https://warpcast.com/~/channel/cult)
 - [/based-art](https://warpcast.com/~/channel/based-art)
 - [/art-history](https://warpcast.com/~/channel/arthistory)
+- [/artcollectors] (https://warpcast.com/~/channel/artcollectors)
 
 
 
