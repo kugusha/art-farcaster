@@ -22,7 +22,7 @@
 
 
 
-### Artists' Personal Channels
+### Creators' Personal Channels
 - [/bold](https://warpcast.com/~/channel/bold) by [@boldleonidas](https://warpcast.com/boldleonidas)
 - [/muse](https://warpcast.com/~/channel/muse) by [@mxjxn.eth](https://warpcast.com/mxjxn.eth)
 - [/xcopy](https://warpcast.com/~/channel/xcopy) by [@xcopy.eth](https://warpcast.com/xcopy.eth)
@@ -48,6 +48,7 @@
 - [/dyl](https://warpcast.com/~/channel/dyl) by [@dyl](https://warpcast.com/dyl)
 - [/rudxane](https://warpcast.com/~/channel/rudxane) by [@rudxane](https://warpcast.com/rudxane)
 - [/gokhan](https://warpcast.com/~/channel/gokhan) by [@gokhan.eth](https://warpcast.com/gokhan.eth)
+- [/kaloh](https://warpcast.com/~/channel/kaloh) by [@kaloh](https://warpcast.com/kaloh)
 
 
 ### Project-specific Channels
