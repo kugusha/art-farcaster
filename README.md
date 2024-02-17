@@ -20,6 +20,7 @@
 - [/art-history](https://warpcast.com/~/channel/arthistory)
 - [f/art](https://warpcast.com/~/channel/fart)
 - [/burrito](https://warpcast.com/~/channel/burrito)
+- [/artonly](https://warpcast.com/~/channel/artonly)
 
 
 
