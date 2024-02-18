@@ -1,3 +1,5 @@
+<img alt="Banner" src="https://github.com/kugusha/art-farcaster/blob/main/banner.jpg?raw=true"> 
+
 # Art-related Channels 
 ### Art-focused Channels (General)
 - [/art](https://warpcast.com/~/channel/art)
@@ -118,3 +120,7 @@ Submission rules:
 
 ### 💌 Contact 
 If you have any questions or suggestions how to improve this list, please send me a DC on Farcaster [@kugusha.eth](https://warpcast.com/kugusha.eth). 
+
+---
+The banner was created by [@achlado](https://warpcast.com/achlado).
+
