@@ -23,7 +23,7 @@
 - [f/art](https://warpcast.com/~/channel/fart)
 - [/burrito](https://warpcast.com/~/channel/burrito)
 - [/artonly](https://warpcast.com/~/channel/artonly)
-
+- [/botto](https://warpcast.com/~/channel/botto)
 
 
 ### Creators' Personal Channels
