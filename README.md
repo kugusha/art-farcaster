@@ -53,6 +53,8 @@
 - [/rudxane](https://warpcast.com/~/channel/rudxane) by [@rudxane](https://warpcast.com/rudxane)
 - [/gokhan](https://warpcast.com/~/channel/gokhan) by [@gokhan.eth](https://warpcast.com/gokhan.eth)
 - [/kaloh](https://warpcast.com/~/channel/kaloh) by [@kaloh](https://warpcast.com/kaloh)
+- [/shadows](https://warpcast.com/~/channel/shadows) by [@lght.eth](https://warpcast.com/lght.eth)
+- [/flora](https://warpcast.com/~/channel/flora) by [@reneecampbell](https://warpcast.com/reneecampbell) and [@nomadicframe](https://warpcast.com/nomadicframe)
 
 
 ### Project-specific Channels
@@ -68,6 +70,7 @@
 - [/le-random](https://warpcast.com/~/channel/le-random)
 - [/superrare](https://warpcast.com/~/channel/superrare)
 - [/lisa](https://warpcast.com/~/channel/lisa)
+- [/rarible](https://warpcast.com/~/channel/rarible)
 
 
 ### Collection-specific Channels
@@ -81,6 +84,7 @@
 - [/grifters](https://warpcast.com/~/channel/grifters)
 - [/rcs](https://warpcast.com/~/channel/rcs)
 - [/zaibs](https://warpcast.com/~/channel/zaibs)
+- [/outcasts](https://warpcast.com/~/channel/outcasts)
 
 
 ### Art-related Channels (General) 
@@ -89,6 +93,7 @@
 - [/music](https://warpcast.com/~/channel/music)
 - [/poetry](https://warpcast.com/~/channel/poetry)
 - [/design](https://warpcast.com/~/channel/design)
+- [/knitting](https://warpcast.com/~/channel/knitting)
 
 # Art-related Initiatives 
 - The Yellow Collective - a new onchain club on the BASE L2, designed to support and empower artists and creatives in the Nouns and Superchain ecosystems.
