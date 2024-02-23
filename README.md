@@ -85,6 +85,7 @@
 - [/rcs](https://warpcast.com/~/channel/rcs)
 - [/zaibs](https://warpcast.com/~/channel/zaibs)
 - [/outcasts](https://warpcast.com/~/channel/outcasts)
+- [/morpheus](https://warpcast.com/~/channel/morpheus)
 
 
 ### Art-related Channels (General) 
