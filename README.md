@@ -24,6 +24,8 @@
 - [/burrito](https://warpcast.com/~/channel/burrito)
 - [/artonly](https://warpcast.com/~/channel/artonly)
 - [/botto](https://warpcast.com/~/channel/botto)
+- [/cc0](https://warpcast.com/~/channel/cc0)
+- [/sketches](https://warpcast.com/~/channel/sketches)
 
 
 ### Creators' Personal Channels
@@ -86,6 +88,7 @@
 - [/zaibs](https://warpcast.com/~/channel/zaibs)
 - [/outcasts](https://warpcast.com/~/channel/outcasts)
 - [/morpheus](https://warpcast.com/~/channel/morpheus)
+- [/animeoutcasts](https://warpcast.com/~/channel/animeoutcasts)
 
 
 ### Art-related Channels (General) 
@@ -95,6 +98,7 @@
 - [/poetry](https://warpcast.com/~/channel/poetry)
 - [/design](https://warpcast.com/~/channel/design)
 - [/knitting](https://warpcast.com/~/channel/knitting)
+
 
 # Art-related Initiatives 
 - The Yellow Collective - a new onchain club on the BASE L2, designed to support and empower artists and creatives in the Nouns and Superchain ecosystems.
@@ -108,13 +112,16 @@
   - channel: [/basepaint](https://warpcast.com/~/channel/basepaint) 
 - [We love art](https://welovetheart.optimism.io/) by Optimism - an onchain art contest with 1,200,000 OP in prizes. 
 
+
 # Tools for Artists 
 - [Gallery.so](https://gallery.so/home) - Create your own gallery and showcase your collection as it's meant to be seen. Native integration with frames.
 - [Hypersub](https://hypersub.withfabric.xyz/) by fabric.xyz - Create recurring revenue with NFT subscriptions: Upload your art, add subscriber perks, set a monthly price, and launch your collection.
 
+
 # Visual-focused Farcaster Clients 
 - [tiles](https://www.v0.tiles.cool/channels/art) - an image-first Farcaster client.
 - [photocaster.xyz](https://www.photocaster.xyz/) - an image focused Farcaster client that allows you to post high resolution photos.
+
 
 ## Contributions
 This is a community-curated list of art-related projects on Farcaster. If you'd like to add something to these lists, please open a pull request. Please try to match or improve upon the format of the existing entries.
