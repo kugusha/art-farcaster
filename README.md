@@ -7,6 +7,7 @@
 - [/onchainart](https://warpcast.com/~/channel/onchainart)
 - [/cryptoart](https://warpcast.com/~/channel/cryptoart)
 - [/ai-art](https://warpcast.com/~/channel/ai-art)
+- [/collector-walls](https://warpcast.com/~/channel/collector-walls)
 - [/plotter-art](https://warpcast.com/~/channel/plotter-art)
 - [/glitch-art](https://warpcast.com/~/channel/glitch-art)
 - [/glitch](https://warpcast.com/~/channel/glitch)
@@ -26,6 +27,7 @@
 - [/botto](https://warpcast.com/~/channel/botto)
 - [/cc0](https://warpcast.com/~/channel/cc0)
 - [/sketches](https://warpcast.com/~/channel/sketches)
+- [/trippy](https://warpcast.com/~/channel/trippy)
 
 
 ### Creators' Personal Channels
