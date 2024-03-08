@@ -92,6 +92,7 @@
 - [/outcasts](https://warpcast.com/~/channel/outcasts)
 - [/morpheus](https://warpcast.com/~/channel/morpheus)
 - [/animeoutcasts](https://warpcast.com/~/channel/animeoutcasts)
+- [/groupies](https://warpcast.com/~/channel/groupies)
 
 
 ### Art-related Channels (General) 
