@@ -51,6 +51,7 @@
 - [/zora](https://warpcast.com/~/channel/zora)
 - [/bright-moments](https://warpcast.com/~/channel/bright-moments)
 - [/fxhash](https://warpcast.com/~/channel/fxhash)
+- [/koda](https://warpcast.com/~/channel/koda)
 - [/gallery](https://warpcast.com/~/channel/gallery)
 - [/artblocks](https://warpcast.com/~/channel/artblocks)
 - [/highlight](https://warpcast.com/~/channel/highlight)
