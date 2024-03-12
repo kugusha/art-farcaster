@@ -29,6 +29,7 @@
 - [/sketches](https://warpcast.com/~/channel/sketches)
 - [/trippy](https://warpcast.com/~/channel/trippy)
 - [/bookends](https://warpcast.com/~/channel/bookends)
+- [/illustrations](https://warpcast.com/~/channel/illustrations)
 
 
 ### Creators' Personal Channels
