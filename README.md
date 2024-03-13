@@ -30,6 +30,7 @@
 - [/trippy](https://warpcast.com/~/channel/trippy)
 - [/bookends](https://warpcast.com/~/channel/bookends)
 - [/illustrations](https://warpcast.com/~/channel/illustrations)
+- [/geometric](https://warpcast.com/~/channel/geometric)
 
 
 ### Creators' Personal Channels
