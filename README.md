@@ -32,6 +32,8 @@
 - [/illustrations](https://warpcast.com/~/channel/illustrations)
 - [/geometric](https://warpcast.com/~/channel/geometric)
 - [/artacc](https://warpcast.com/~/channel/artacc)
+- [/behindthescenes](https://warpcast.com/~/channel/behindthescenes)
+
 
 ### Creators' Personal Channels
 - [/bold](https://warpcast.com/~/channel/bold) by [@boldleonidas](https://warpcast.com/boldleonidas)
