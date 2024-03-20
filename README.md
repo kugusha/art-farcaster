@@ -1,3 +1,5 @@
+<img alt="Banner" src="https://github.com/kugusha/art-farcaster/blob/main/banner.jpg?raw=true"> 
+
 # Art-related Channels 
 ### Art-focused Channels (General)
 - [/art](https://warpcast.com/~/channel/art)
@@ -5,6 +7,7 @@
 - [/onchainart](https://warpcast.com/~/channel/onchainart)
 - [/cryptoart](https://warpcast.com/~/channel/cryptoart)
 - [/ai-art](https://warpcast.com/~/channel/ai-art)
+- [/collector-walls](https://warpcast.com/~/channel/collector-walls)
 - [/plotter-art](https://warpcast.com/~/channel/plotter-art)
 - [/glitch-art](https://warpcast.com/~/channel/glitch-art)
 - [/glitch](https://warpcast.com/~/channel/glitch)
@@ -17,10 +20,22 @@
 - [/abstract](https://warpcast.com/~/channel/abstract)
 - [/cult](https://warpcast.com/~/channel/cult)
 - [/based-art](https://warpcast.com/~/channel/based-art)
+- [/art-history](https://warpcast.com/~/channel/arthistory)
+- [f/art](https://warpcast.com/~/channel/fart)
+- [/burrito](https://warpcast.com/~/channel/burrito)
+- [/artonly](https://warpcast.com/~/channel/artonly)
+- [/botto](https://warpcast.com/~/channel/botto)
+- [/cc0](https://warpcast.com/~/channel/cc0)
+- [/sketches](https://warpcast.com/~/channel/sketches)
+- [/trippy](https://warpcast.com/~/channel/trippy)
+- [/bookends](https://warpcast.com/~/channel/bookends)
+- [/illustrations](https://warpcast.com/~/channel/illustrations)
+- [/geometric](https://warpcast.com/~/channel/geometric)
+- [/artacc](https://warpcast.com/~/channel/artacc)
+- [/behindthescenes](https://warpcast.com/~/channel/behindthescenes)
 
 
-
-### Artists' Personal Channels
+### Creators' Personal Channels
 - [/bold](https://warpcast.com/~/channel/bold) by [@boldleonidas](https://warpcast.com/boldleonidas)
 - [/muse](https://warpcast.com/~/channel/muse) by [@mxjxn.eth](https://warpcast.com/mxjxn.eth)
 - [/xcopy](https://warpcast.com/~/channel/xcopy) by [@xcopy.eth](https://warpcast.com/xcopy.eth)
@@ -45,6 +60,10 @@
 - [/brinkman](https://warpcast.com/~/channel/brinkman) by [@bryanbrinkman](https://warpcast.com/bryanbrinkman)
 - [/dyl](https://warpcast.com/~/channel/dyl) by [@dyl](https://warpcast.com/dyl)
 - [/rudxane](https://warpcast.com/~/channel/rudxane) by [@rudxane](https://warpcast.com/rudxane)
+- [/gokhan](https://warpcast.com/~/channel/gokhan) by [@gokhan.eth](https://warpcast.com/gokhan.eth)
+- [/kaloh](https://warpcast.com/~/channel/kaloh) by [@kaloh](https://warpcast.com/kaloh)
+- [/shadows](https://warpcast.com/~/channel/shadows) by [@lght.eth](https://warpcast.com/lght.eth)
+- [/flora](https://warpcast.com/~/channel/flora) by [@reneecampbell](https://warpcast.com/reneecampbell) and [@nomadicframe](https://warpcast.com/nomadicframe)
 
 
 ### Project-specific Channels
@@ -61,6 +80,8 @@
 - [/le-random](https://warpcast.com/~/channel/le-random)
 - [/superrare](https://warpcast.com/~/channel/superrare)
 - [/lisa](https://warpcast.com/~/channel/lisa)
+- [/rarible](https://warpcast.com/~/channel/rarible)
+- [/koda](https://warpcast.com/~/channel/koda)
 
 
 ### Collection-specific Channels
@@ -74,6 +95,10 @@
 - [/grifters](https://warpcast.com/~/channel/grifters)
 - [/rcs](https://warpcast.com/~/channel/rcs)
 - [/zaibs](https://warpcast.com/~/channel/zaibs)
+- [/outcasts](https://warpcast.com/~/channel/outcasts)
+- [/morpheus](https://warpcast.com/~/channel/morpheus)
+- [/animeoutcasts](https://warpcast.com/~/channel/animeoutcasts)
+- [/groupies](https://warpcast.com/~/channel/groupies)
 
 
 ### Art-related Channels (General) 
@@ -82,6 +107,8 @@
 - [/music](https://warpcast.com/~/channel/music)
 - [/poetry](https://warpcast.com/~/channel/poetry)
 - [/design](https://warpcast.com/~/channel/design)
+- [/knitting](https://warpcast.com/~/channel/knitting)
+
 
 # Art-related Initiatives 
 - The Yellow Collective - a new onchain club on the BASE L2, designed to support and empower artists and creatives in the Nouns and Superchain ecosystems.
@@ -95,9 +122,16 @@
   - channel: [/basepaint](https://warpcast.com/~/channel/basepaint) 
 - [We love art](https://welovetheart.optimism.io/) by Optimism - an onchain art contest with 1,200,000 OP in prizes. 
 
+
 # Tools for Artists 
 - [Gallery.so](https://gallery.so/home) - Create your own gallery and showcase your collection as it's meant to be seen. Native integration with frames.
 - [Hypersub](https://hypersub.withfabric.xyz/) by fabric.xyz - Create recurring revenue with NFT subscriptions: Upload your art, add subscriber perks, set a monthly price, and launch your collection.
+
+
+# Visual-focused Farcaster Clients 
+- [tiles](https://www.v0.tiles.cool/channels/art) - an image-first Farcaster client.
+- [photocaster.xyz](https://www.photocaster.xyz/) - an image focused Farcaster client that allows you to post high resolution photos.
+
 
 ## Contributions
 This is a community-curated list of art-related projects on Farcaster. If you'd like to add something to these lists, please open a pull request. Please try to match or improve upon the format of the existing entries.
@@ -109,3 +143,7 @@ Submission rules:
 
 ### 💌 Contact 
 If you have any questions or suggestions how to improve this list, please send me a DC on Farcaster [@kugusha.eth](https://warpcast.com/kugusha.eth). 
+
+---
+The banner was created by [@achlado](https://warpcast.com/achlado).
+
