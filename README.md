@@ -80,6 +80,7 @@
 - [/superrare](https://warpcast.com/~/channel/superrare)
 - [/lisa](https://warpcast.com/~/channel/lisa)
 - [/rarible](https://warpcast.com/~/channel/rarible)
+- [/koda](https://warpcast.com/~/channel/koda)
 
 
 ### Collection-specific Channels
