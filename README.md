@@ -67,20 +67,20 @@
 
 
 ### Project-specific Channels
-- [/zora](https://warpcast.com/~/channel/zora)
+- [/artblocks](https://warpcast.com/~/channel/artblocks)
 - [/bright-moments](https://warpcast.com/~/channel/bright-moments)
+- [/deca](https://warpcast.com/~/channel/deca)
+- [/foundation](https://warpcast.com/~/channel/foundation)
 - [/fxhash](https://warpcast.com/~/channel/fxhash)
 - [/gallery](https://warpcast.com/~/channel/gallery)
-- [/artblocks](https://warpcast.com/~/channel/artblocks)
 - [/highlight](https://warpcast.com/~/channel/highlight)
-- [/deca](https://warpcast.com/~/channel/deca)
-- [/objkt](https://warpcast.com/~/channel/objkt)
-- [/foundation](https://warpcast.com/~/channel/foundation)
-- [/le-random](https://warpcast.com/~/channel/le-random)
-- [/superrare](https://warpcast.com/~/channel/superrare)
-- [/lisa](https://warpcast.com/~/channel/lisa)
-- [/rarible](https://warpcast.com/~/channel/rarible)
 - [/koda](https://warpcast.com/~/channel/koda)
+- [/le-random](https://warpcast.com/~/channel/le-random)
+- [/lisa](https://warpcast.com/~/channel/lisa)
+- [/objkt](https://warpcast.com/~/channel/objkt)
+- [/rarible](https://warpcast.com/~/channel/rarible)
+- [/superrare](https://warpcast.com/~/channel/superrare)
+- [/zora](https://warpcast.com/~/channel/zora)
 
 
 ### Collection-specific Channels
