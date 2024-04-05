@@ -16,6 +16,7 @@
 - [/gifart](https://warpcast.com/~/channel/gifart)
 - [/vv](https://warpcast.com/~/channel/vv)
 - [/conceptual-art](https://warpcast.com/~/channel/conceptualart)
+- [/curation](https://warpcast.com/~/channel/curation)
 - [/dynamic-art](https://warpcast.com/~/channel/dynamic-art)
 - [/nft](https://warpcast.com/~/channel/nft)
 - [/abstract](https://warpcast.com/~/channel/abstract)
