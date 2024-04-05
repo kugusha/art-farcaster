@@ -3,6 +3,7 @@
 # Art-related Channels 
 ### Art-focused Channels (General)
 - [/art](https://warpcast.com/~/channel/art)
+- [/artist](https://warpcast.com/~/channel/artist)
 - [/gen-art](https://warpcast.com/~/channel/gen-art)
 - [/onchainart](https://warpcast.com/~/channel/onchainart)
 - [/cryptoart](https://warpcast.com/~/channel/cryptoart)
