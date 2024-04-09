@@ -35,6 +35,7 @@
 - [/geometric](https://warpcast.com/~/channel/geometric)
 - [/artacc](https://warpcast.com/~/channel/artacc)
 - [/behindthescenes](https://warpcast.com/~/channel/behindthescenes)
+- [/net-art](https://warpcast.com/~/channel/net-art)
 
 
 ### Creators' Personal Channels
