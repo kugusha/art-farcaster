@@ -115,12 +115,15 @@
 # Art-related Initiatives 
 - The Yellow Collective - a new onchain club on the BASE L2, designed to support and empower artists and creatives in the Nouns and Superchain ecosystems.
   - channel: [/yellow](https://warpcast.com/~/channel/yellow)
-  - auction: [https://yellowcollective.xyz](https://yellowcollective.xyz)   
+  - auction: [yellowcollective.xyz](https://yellowcollective.xyz)
+- Higher - a lifestyle and a mindset. Higher is a decentralized community of optimists building a headless brand. 
+  - channel: [/higher](https://warpcast.com/~/channel/higher)
+  - Higher art: [/zora explore page](https://zora.co/explore/higher)
 - ENERGY - a creative grants collective, funding creative arts and engineering projects on Zora Network.
   - channel: [/energy](https://warpcast.com/~/channel/energy)
   - auction: [auction page](https://nouns.build/dao/zora/0x32297b7416294b1acf404b6148a3c58107ba8afd/76)
 - Basepaint - Paint Together. Mint Daily.
-  - website:[https://basepaint.xyz/](https://basepaint.xyz/)
+  - website: [basepaint.xyz/](https://basepaint.xyz/)
   - channel: [/basepaint](https://warpcast.com/~/channel/basepaint) 
 - [We love art](https://welovetheart.optimism.io/) by Optimism - an onchain art contest with 1,200,000 OP in prizes. 
 
