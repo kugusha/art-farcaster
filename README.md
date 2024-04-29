@@ -38,6 +38,7 @@
 - [/net-art](https://warpcast.com/~/channel/net-art)
 
 
+
 ### Creators' Personal Channels
 - [/bold](https://warpcast.com/~/channel/bold) by [@boldleonidas](https://warpcast.com/boldleonidas)
 - [/muse](https://warpcast.com/~/channel/muse) by [@mxjxn.eth](https://warpcast.com/mxjxn.eth)
@@ -101,6 +102,7 @@
 - [/morpheus](https://warpcast.com/~/channel/morpheus)
 - [/animeoutcasts](https://warpcast.com/~/channel/animeoutcasts)
 - [/groupies](https://warpcast.com/~/channel/groupies)
+- [/covenclassics](https://warpcast.com/~/channel/covenclassics)
 
 
 ### Art-related Channels (General) 
