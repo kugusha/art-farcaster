@@ -36,6 +36,11 @@
 - [/artacc](https://warpcast.com/~/channel/artacc)
 - [/behindthescenes](https://warpcast.com/~/channel/behindthescenes)
 - [/net-art](https://warpcast.com/~/channel/net-art)
+- [/the-library](https://warpcast.com/~/channel/the-library)
+- [/behindthescenes](https://warpcast.com/~/channel/behindthescenes)
+- [/degen-art](https://warpcast.com/~/channel/degen-art)
+- [/details](https://warpcast.com/~/channel/details)
+- 
 
 
 
@@ -144,8 +149,8 @@
 This is a community-curated list of art-related projects on Farcaster. If you'd like to add something to these lists, please open a pull request. Please try to match or improve upon the format of the existing entries.
 
 Submission rules:
-- for general channels: > 100 followers
-- for personal channels: > 50 followers
+- for general channels: > 500 followers
+- for personal channels: > 200 followers
 
 
 ### 💌 Contact 
