@@ -85,7 +85,8 @@
 - [/objkt](https://warpcast.com/~/channel/objkt)
 - [/rarible](https://warpcast.com/~/channel/rarible)
 - [/superrare](https://warpcast.com/~/channel/superrare)
-- [surreal](https://warpcast.com/~/channel/surreal)
+- [/surreal](https://warpcast.com/~/channel/surreal)
+- [/titles](https://warpcast.com/~/channel/titles)
 - [/zora](https://warpcast.com/~/channel/zora)
 
 
