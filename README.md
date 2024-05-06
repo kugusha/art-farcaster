@@ -26,7 +26,7 @@
 - [/degen-art](https://warpcast.com/~/channel/degen-art)
 - [/details](https://warpcast.com/~/channel/details)
 - [/dynamic-art](https://warpcast.com/~/channel/dynamic-art)
-- [f/art](https://warpcast.com/~/channel/fart)
+- [/f/art](https://warpcast.com/~/channel/fart)
 - [/gen-art](https://warpcast.com/~/channel/gen-art)
 - [/geometric](https://warpcast.com/~/channel/geometric)
 - [/gifart](https://warpcast.com/~/channel/gifart)
@@ -37,6 +37,7 @@
 - [/net-art](https://warpcast.com/~/channel/net-art)
 - [/nft](https://warpcast.com/~/channel/nft)
 - [/onchainart](https://warpcast.com/~/channel/onchainart)
+- [/visual-poetry](https://warpcast.com/~/channel/visual-poetry)
 
 
 
