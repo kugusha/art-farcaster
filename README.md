@@ -134,7 +134,9 @@
 - Basepaint - Paint Together. Mint Daily.
   - website: [basepaint.xyz/](https://basepaint.xyz/)
   - channel: [/basepaint](https://warpcast.com/~/channel/basepaint) 
-- [We love art](https://welovetheart.optimism.io/) by Optimism - an onchain art contest with 1,200,000 OP in prizes. 
+- [We love art](https://welovetheart.optimism.io/) by Optimism - an onchain art contest with 1,200,000 OP in prizes.
+- HUG - Discover artists from our global community & one-of-a-kind Open Calls for your work. 
+  - channel: [/HUG 🤗](https://warpcast.com/~/channel/thehugxyz)  
 
 
 # Tools for Artists 
