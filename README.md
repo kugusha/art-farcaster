@@ -7,6 +7,7 @@
 - [/art](https://warpcast.com/~/channel/art)
 - [/art-history](https://warpcast.com/~/channel/arthistory)
 - [/artacc](https://warpcast.com/~/channel/artacc)
+- [/artcrash](https://warpcast.com/~/channel/artcrush)
 - [/art-hive](https://warpcast.com/~/channel/art-hive)
 - [/art-share](https://warpcast.com/~/channel/art-share)
 - [/artonly](https://warpcast.com/~/channel/artonly)
