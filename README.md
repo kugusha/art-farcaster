@@ -85,6 +85,7 @@
 - [/le-random](https://warpcast.com/~/channel/le-random)
 - [/lisa](https://warpcast.com/~/channel/lisa)
 - [/objkt](https://warpcast.com/~/channel/objkt)
+- [/prohibition](https://warpcast.com/~/channel/prohibition)
 - [/rarible](https://warpcast.com/~/channel/rarible)
 - [/superrare](https://warpcast.com/~/channel/superrare)
 - [/surreal](https://warpcast.com/~/channel/surreal)
