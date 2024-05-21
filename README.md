@@ -133,11 +133,14 @@
   - channel: [/energy](https://warpcast.com/~/channel/energy)
   - auction: [auction page](https://nouns.build/dao/zora/0x32297b7416294b1acf404b6148a3c58107ba8afd/76)
 - Basepaint - Paint Together. Mint Daily.
-  - website: [basepaint.xyz/](https://basepaint.xyz/)
+  - website: [basepaint.xyz](https://basepaint.xyz/)
   - channel: [/basepaint](https://warpcast.com/~/channel/basepaint) 
 - [We love art](https://welovetheart.optimism.io/) by Optimism - an onchain art contest with 1,200,000 OP in prizes.
 - HUG - Discover artists from our global community & one-of-a-kind Open Calls for your work. 
-  - channel: [/HUG 🤗](https://warpcast.com/~/channel/thehugxyz)  
+  - channel: [/HUG 🤗](https://warpcast.com/~/channel/thehugxyz)
+- Artist Program - a small grants program funding artists to create artwork in various mediums. Artists voted into the program then contribute by voting for artists in upcoming funding rounds creating a perpetual arts program: for artists, by artists. Funded by NounsDAO.
+  - website: [artistprogram.org](https://www.artistprogram.org/)
+  - acc: [@artistprogram](https://warpcast.com/artistprogram)
 
 
 # Tools for Artists 
