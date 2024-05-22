@@ -117,6 +117,7 @@
 - [/photography](https://warpcast.com/~/channel/photography)
 - [/streetphotos](https://warpcast.com/~/channel/streetphotos)
 - [/music](https://warpcast.com/~/channel/music)
+- [/oldmasters](https://warpcast.com/~/channel/oldmasters)
 - [/poetry](https://warpcast.com/~/channel/poetry)
 - [/design](https://warpcast.com/~/channel/design)
 - [/knitting](https://warpcast.com/~/channel/knitting)
