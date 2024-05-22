@@ -40,6 +40,7 @@
 - [/oldmasters](https://warpcast.com/~/channel/oldmasters)
 - [/onchainart](https://warpcast.com/~/channel/onchainart)
 - [/visual-poetry](https://warpcast.com/~/channel/visual-poetry)
+- [/weird](https://warpcast.com/~/channel/weird)
 
 
 
