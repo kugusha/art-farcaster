@@ -37,8 +37,8 @@
 - [/moire](https://warpcast.com/~/channel/moire)
 - [/net-art](https://warpcast.com/~/channel/net-art)
 - [/nft](https://warpcast.com/~/channel/nft)
-- [/onchainart](https://warpcast.com/~/channel/onchainart)
 - [/oldmasters](https://warpcast.com/~/channel/oldmasters)
+- [/onchainart](https://warpcast.com/~/channel/onchainart)
 - [/visual-poetry](https://warpcast.com/~/channel/visual-poetry)
 
 
