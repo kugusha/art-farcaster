@@ -15,6 +15,7 @@
 - [/artist](https://warpcast.com/~/channel/artist)
 - [/based-art](https://warpcast.com/~/channel/based-art)
 - [/behindthescenes](https://warpcast.com/~/channel/behindthescenes)
+- [/bnw](https://warpcast.com/~/channel/bnw)
 - [/botto](https://warpcast.com/~/channel/botto)
 - [/bookends](https://warpcast.com/~/channel/bookends)
 - [/burrito](https://warpcast.com/~/channel/burrito)
@@ -39,12 +40,16 @@
 - [/nft](https://warpcast.com/~/channel/nft)
 - [/oldmasters](https://warpcast.com/~/channel/oldmasters)
 - [/onchainart](https://warpcast.com/~/channel/onchainart)
+- [/pixelart](https://warpcast.com/~/channel/pixelart)
+- [/typography](https://warpcast.com/~/channel/typography)
 - [/visual-poetry](https://warpcast.com/~/channel/visual-poetry)
 
 
 
 ### Creators' Personal Channels
+- [/batz](https://warpcast.com/~/channel/batz) by [@batz.eth](https://warpcast.com/batz.eth)
 - [/bold](https://warpcast.com/~/channel/bold) by [@boldleonidas](https://warpcast.com/boldleonidas)
+- [/deekay](https://warpcast.com/~/channel/deekay) by [@deekay](https://warpcast.com/deekay)
 - [/muse](https://warpcast.com/~/channel/muse) by [@mxjxn.eth](https://warpcast.com/mxjxn.eth)
 - [/xcopy](https://warpcast.com/~/channel/xcopy) by [@xcopy.eth](https://warpcast.com/xcopy.eth)
 - [/dywtfs](https://warpcast.com/~/channel/dywtfs) by [@sgt-sl8termelon](https://warpcast.com/sgt-sl8termelon)
@@ -76,6 +81,7 @@
 
 ### Project-specific Channels
 - [/artblocks](https://warpcast.com/~/channel/artblocks)
+- [/basepaint](https://warpcast.com/~/channel/basepaint)
 - [/bright-moments](https://warpcast.com/~/channel/bright-moments)
 - [/deca](https://warpcast.com/~/channel/deca)
 - [/foundation](https://warpcast.com/~/channel/foundation)
@@ -115,6 +121,7 @@
 
 
 ### Art-related Channels (General) 
+- [/architecture](https://warpcast.com/~/channel/architecture)
 - [/photography](https://warpcast.com/~/channel/photography)
 - [/streetphotos](https://warpcast.com/~/channel/streetphotos)
 - [/music](https://warpcast.com/~/channel/music)
