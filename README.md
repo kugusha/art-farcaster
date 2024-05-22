@@ -38,6 +38,7 @@
 - [/net-art](https://warpcast.com/~/channel/net-art)
 - [/nft](https://warpcast.com/~/channel/nft)
 - [/onchainart](https://warpcast.com/~/channel/onchainart)
+- [/oldmasters](https://warpcast.com/~/channel/oldmasters)
 - [/visual-poetry](https://warpcast.com/~/channel/visual-poetry)
 
 
@@ -117,7 +118,6 @@
 - [/photography](https://warpcast.com/~/channel/photography)
 - [/streetphotos](https://warpcast.com/~/channel/streetphotos)
 - [/music](https://warpcast.com/~/channel/music)
-- [/oldmasters](https://warpcast.com/~/channel/oldmasters)
 - [/poetry](https://warpcast.com/~/channel/poetry)
 - [/design](https://warpcast.com/~/channel/design)
 - [/knitting](https://warpcast.com/~/channel/knitting)
