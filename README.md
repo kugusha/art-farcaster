@@ -72,6 +72,7 @@
 - [/kaloh](https://warpcast.com/~/channel/kaloh) by [@kaloh](https://warpcast.com/kaloh)
 - [/shadows](https://warpcast.com/~/channel/shadows) by [@lght.eth](https://warpcast.com/lght.eth)
 - [/flora](https://warpcast.com/~/channel/flora) by [@reneecampbell](https://warpcast.com/reneecampbell) and [@nomadicframe](https://warpcast.com/nomadicframe)
+- [/hyefa](https://warpcast.com/~/channel/hyefa) by [@aoifeodwyer](https://warpcast.com/aoifeodwyer)
 
 
 ### Project-specific Channels
